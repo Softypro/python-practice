@@ -1,3 +1,4 @@
+#I am a 7th Grader Stud
 # My Python Practice
 
 This repository contains practice scripts for learning Python basics and intermediate topics. The code demonstrates arithmetic operations, control flow, functions, closures, decorators, and simple games.
